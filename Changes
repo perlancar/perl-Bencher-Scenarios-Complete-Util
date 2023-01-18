@@ -1,3 +1,9 @@
+0.051   2023-01-18  Released-By: PERLANCAR; Urgency: medium
+
+        - Rename module/dist
+          Bencher-Scenarios-{CompleteUtil,Complete-Util}.
+
+
 0.05    2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
