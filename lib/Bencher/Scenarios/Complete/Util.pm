@@ -1,6 +1,10 @@
-package Bencher::Scenarios::CompleteUtil;
+package Bencher::Scenarios::Complete::Util;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;

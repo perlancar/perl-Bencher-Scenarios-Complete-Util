@@ -1,11 +1,13 @@
-package Bencher::Scenario::CompleteUtil::complete_array_elem;
-
-# DATE
-# VERSION
+package Bencher::Scenario::Complete::Util::complete_array_elem;
 
 use 5.010001;
 use strict;
 use warnings;
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 our $scenario = {
     summary => 'Benchmark complete_array_elem()',
